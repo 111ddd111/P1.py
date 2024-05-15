@@ -1,3 +1,3 @@
 # P1.py
-Python first project
+Python first program 
 print ("hellow world")
